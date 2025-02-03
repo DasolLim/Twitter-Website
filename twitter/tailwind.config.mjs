@@ -8,8 +8,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        twitterWhite: '#e7e9ea',
+        twitterBlue: '#308CD8',
+        twitterBorder: '#2F3336',
       },
     },
   },
