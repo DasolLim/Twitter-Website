@@ -1,4 +1,4 @@
-import { getProviders } from "next-auth/react";
+import { getProviders, signIn } from "next-auth/react";
 
 export default function LoginPage(providers) {
     return (
